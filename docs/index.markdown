@@ -31,7 +31,7 @@ For each locale there is a community of volunteers, and we typically refer to th
 
 ## How to become a Mozilla localizer
 
-That’s easy: to access Pontoon, you need a Firefox account and can start contributing right away. Here you can find some basic documentation on [how to use Pontoon](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/index.html).
+That’s easy: to access Pontoon, you need a Mozilla account and can start contributing right away. Here you can find some basic documentation on [how to use Pontoon](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/index.html).
 
 As a brand new contributor, you will only be able to provide suggestions. A translator or locale manager in your community will need to review your work before it can ship in the final product. You can find [more information about roles in this page](https://mozilla-l10n.github.io/localizer-documentation/community/l10n_community_roles.html).
 
