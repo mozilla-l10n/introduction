@@ -7,31 +7,32 @@ title: Localization at Mozilla
 pagetitle: Welcome to the Mozilla Localization Community
 ---
 
-*“Our mission is to ensure the Internet is a global public resource, open and accessible to all.”* - The Mozilla Mission.
+*“Our mission is to ensure the Internet is a global public resource, open and accessible to all.”* - The Mozilla [Mission](http://www.mozilla.org/en-US/mission/).
 
 Whether you are passionate about language, dedicated to Open Source, or here for the community spirit… If you’d like to get involved, you are in the right place!
 
-Dive right in with our quick guide below, or take a moment to explore the finer details of localization at Mozilla first — whichever suits your style!
+Dive right in with our quick guide below, or take a moment to explore the [finer details](#detailed-overview-exploring-mozilla-localization) of localization at Mozilla first — whichever suits your style!
 
 ## Quick guide: getting started with Mozilla localizations
 
 Here is a simplified checklist providing an overview of upcoming steps:
-1. Take a tour of [Pontoon](https://pontoon.mozilla.org/).
-2. Create an account.
-3. Choose your preferred language.
-4. Reach out to your language community.
-5. Start localizing.
+1. Take a [tour](#understanding-pontoon) of Pontoon.
+2. Create an [account](#setting-up-your-account).
+3. Choose your [preferred language](#joining-a-team-and-selecting-your-project).
+4. [Reach out](#getting-in-touch) to your language community.
+5. Start [localizing](#starting-your-localization-work).
 
 Now, let’s explore all this a bit more.
 
 ### Understanding Pontoon
 
-Start by taking a tour of our translation system, [Pontoon](https://pontoon.mozilla.org/), to get a sense of how things work.
+Start by taking a [tour](https://pontoon.mozilla.org/projects/tutorial/playground/) of our translation system, [Pontoon](https://pontoon.mozilla.org/), to get a sense of how things work.
+
 Stay tuned for an upcoming video tutorial!
 
 ### Setting up your account
 
-Log in to [Pontoon](https://pontoon.mozilla.org/) by using your Mozilla account. If you don’t have an account yet, you can create one for free. You can then customize your profile and information [here](https://accounts.firefox.com/).
+Log in to [Pontoon](https://pontoon.mozilla.org/) by using your [Mozilla account](https://www.mozilla.org/account/). If you don’t have an account yet, you can create one for free. You can then customize your profile and information [here](https://pontoon.mozilla.org/settings/).
 
 ### Joining a team and selecting your project
 
@@ -45,7 +46,7 @@ Can’t find the project you were looking for? While it’s possible to request 
 
 Let us know you’re here!
 
-From your chosen team page, you have several options to get in touch: you can contact language managers directly through their profile in the contributors’ tab, send a message on our [localization Matrix channel](https://matrix.to/#/#l10n:mozilla.org), or email a Mozilla program manager directly (you can find their profile in the header of each project page). We’re always happy to answer your questions, so don’t hesitate to reach out. If one channel isn’t working, please try another from this list. We’re here to help.
+From your chosen [team page](https://pontoon.mozilla.org/teams/), you have several options to get in touch: you can contact language managers directly through their profile in the contributors’ tab, send a message on our [localization Matrix channel](https://matrix.to/#/#l10n:mozilla.org), or email a Mozilla program manager directly (you can find their profile in the header of each project page). We’re always happy to answer your questions, so don’t hesitate to reach out. If one channel isn’t working, please try another from this list. We’re here to help.
 
 ### Starting your localization work
 
@@ -59,7 +60,7 @@ Make sure you subscribe to Pontoon email communications in [your settings](https
 
 ### Enhancing your workflow with add-ons
 
-Consider downloading the [Pontoon notification add-on](https://chrome.google.com/webstore/detail/pontoon-notifications/milkpfjbhplgejjfhdeffjjcogdfbbgf) (Chrome add-on [here](https://chromewebstore.google.com/detail/pontoon-add-on/gnbfbnpjncpghhjmmhklfhcglbopagbb?hl=tr&utm_source=chrome-ntp-launcher&pli=1)), created by Mozilla localizer [Michal Stanke](https://pontoon.mozilla.org/contributors/mstanke/). This add-on brings notifications from Pontoon directly into your browser. It also provides features for proofreading, bug reporting and fixing — you will be shown an introduction tour right after installation.
+Consider downloading the Pontoon notification [add-on](https://chrome.google.com/webstore/detail/pontoon-notifications/milkpfjbhplgejjfhdeffjjcogdfbbgf) (Chrome add-on [here](https://chromewebstore.google.com/detail/pontoon-add-on/gnbfbnpjncpghhjmmhklfhcglbopagbb?hl=tr&utm_source=chrome-ntp-launcher&pli=1)), created by Mozilla localizer [Michal Stanke](https://pontoon.mozilla.org/contributors/mstanke/). This add-on brings notifications from Pontoon directly into your browser. It also provides features for proofreading, bug reporting and fixing — you will be shown an introduction tour right after installation.
 
 ## Detailed overview: exploring Mozilla localization
 
