@@ -89,7 +89,7 @@ For each locale, there is a community of volunteers, and we typically refer to t
 Here are some reminders and other useful information:
 - Basic [documentation](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/) on how to use Pontoon.
 - Our general [localizer documentation](https://mozilla-l10n.github.io/localizer-documentation/).
-- Check out the [virtual events](https://mozilla.github.io/l10n-docs/events/virtual/) we’ve done.
+- Check out the [virtual events](https://mozilla.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0e65cd7b-1564-4b1c-9537-aff1000a5aa5) we’ve done.
 
 ### Stay connected with us
 
