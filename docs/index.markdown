@@ -7,7 +7,7 @@ title: Localization at Mozilla
 pagetitle: Welcome to the Mozilla Localization Community
 ---
 
-“Our mission is to ensure the Internet is a global public resource, open and accessible to all.” - The Mozilla Mission.
+*“Our mission is to ensure the Internet is a global public resource, open and accessible to all.”* - The Mozilla Mission.
 
 Whether you are passionate about language, dedicated to Open Source, or here for the community spirit… If you’d like to get involved, you are in the right place!
 
@@ -55,11 +55,11 @@ Stuck, or not getting any reviews of your work? If language managers are unrespo
 
 ### Staying updated and personalizing your experience
 
-Make sure you subscribe to Pontoon email communications in your settings if you want to keep up with the latest events, features and announcements. You can opt out at any time. This [settings page](https://pontoon.mozilla.org/settings/) also lets you personalize your profile.
+Make sure you subscribe to Pontoon email communications in [your settings](https://pontoon.mozilla.org/settings/) if you want to keep up with the latest events, features and announcements. You can opt out at any time. This settings page also lets you personalize your profile.
 
 ### Enhancing your workflow with add-ons
 
-Consider downloading the [Pontoon notification add-on](https://chrome.google.com/webstore/detail/pontoon-notifications/milkpfjbhplgejjfhdeffjjcogdfbbgf) (Chrome add-on here), created by Mozilla localizer Michal Stanke. This add-on brings notifications from Pontoon directly into your browser. It also provides features for proofreading, bug reporting and fixing — you will be shown an introduction tour right after installation.
+Consider downloading the [Pontoon notification add-on](https://chrome.google.com/webstore/detail/pontoon-notifications/milkpfjbhplgejjfhdeffjjcogdfbbgf) (Chrome add-on [here](https://chromewebstore.google.com/detail/pontoon-add-on/gnbfbnpjncpghhjmmhklfhcglbopagbb?hl=tr&utm_source=chrome-ntp-launcher&pli=1)), created by Mozilla localizer [Michal Stanke](https://pontoon.mozilla.org/contributors/mstanke/). This add-on brings notifications from Pontoon directly into your browser. It also provides features for proofreading, bug reporting and fixing — you will be shown an introduction tour right after installation.
 
 ## Detailed overview: exploring Mozilla localization
 
@@ -86,14 +86,14 @@ For each locale, there is a community of volunteers, and we typically refer to t
 ### A few more useful links
 
 Here are some reminders and other useful information:
-- [Basic documentation on how to use Pontoon](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/).
-- [Our general localizer documentation](https://mozilla-l10n.github.io/localizer-documentation/).
-- [Check out the virtual events we’ve done](https://mozilla.github.io/l10n-docs/events/virtual/).
+- Basic [documentation](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/) on how to use Pontoon.
+- Our general [localizer documentation](https://mozilla-l10n.github.io/localizer-documentation/).
+- Check out the [virtual events](https://mozilla.github.io/l10n-docs/events/virtual/) we’ve done.
 
 ### Stay connected with us
 
-- [Chat with us](https://matrix.to/#/#l10n:mozilla.org), ask questions, or just come hang out on our Matrix channel.
-- [Read our blog](https://blog.mozilla.org/l10n/).
-- [Follow us on Discourse](https://discourse.mozilla.org/c/l10n/).
+- Chat with us, ask questions, or just come hang out on our [Matrix](https://matrix.to/#/#l10n:mozilla.org) channel.
+- Read our [blog](https://blog.mozilla.org/l10n/).
+- Follow us on [Discourse](https://discourse.mozilla.org/c/l10n/).
 - We’re also on [X](https://twitter.com/mozillal10n) and [Mastodon](https://mastodon.mozilla.org/@l10n).
 - Reach out directly to our team via [email](mailto:l10n@mozilla.com).
