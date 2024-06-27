@@ -29,7 +29,7 @@ Now, let’s explore all this a bit more.
 
 Start by taking a [tour](https://pontoon.mozilla.org/projects/tutorial/playground/) of our translation system, Pontoon, to get a sense of how things work.
 
-Stay tuned for an upcoming video tutorial!
+You can also check out our video tutorial, either on [YouTube](https://www.youtube.com/live/FRpGe9MLbUA?t=18s) or [AirMozilla](https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a70f8ef6-b191-4d96-8668-b1930158becf).
 
 ### Setting up your account
 
