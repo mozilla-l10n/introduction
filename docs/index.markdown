@@ -7,7 +7,8 @@ title: Localization at Mozilla
 pagetitle: Welcome to the Mozilla Localization Community
 ---
 
-*“Our mission is to ensure the Internet is a global public resource, open and accessible to all.”* - The Mozilla [Mission](http://www.mozilla.org/en-US/mission/).
+> Our mission is to ensure the Internet is a global public resource, open and accessible to all.
+> <div class="quote_link"><a href="http://www.mozilla.org/mission/">The Mozilla Mission</a></div>
 
 Whether you are passionate about language, dedicated to Open Source, or here for the community spirit… If you’d like to get involved, you are in the right place!
 
@@ -26,7 +27,7 @@ Now, let’s explore all this a bit more.
 
 ### Understanding Pontoon
 
-Start by taking a [tour](https://pontoon.mozilla.org/projects/tutorial/playground/) of our translation system, [Pontoon](https://pontoon.mozilla.org/), to get a sense of how things work.
+Start by taking a [tour](https://pontoon.mozilla.org/projects/tutorial/playground/) of our translation system, Pontoon, to get a sense of how things work.
 
 Stay tuned for an upcoming video tutorial!
 
@@ -36,7 +37,7 @@ Log in to [Pontoon](https://pontoon.mozilla.org/) by using your [Mozilla account
 
 ### Joining a team and selecting your project
 
-Check your preferred language from the [team page](https://pontoon.mozilla.org/teams/) and from there, pick a project of your choice. You can filter projects based on priorities by clicking on the Priority column of the dashboard (1-5 stars).
+Find your preferred language from the [team page](https://pontoon.mozilla.org/teams/) and from there, pick a project of your choice. You can filter projects based on priorities by clicking on the Priority column of the dashboard (1–5 stars).
 
 The priority of a project is defined based on multiple criteria, like the importance of the product in the Mozilla ecosystem, userbase size, frequency of updates, etc.
 
@@ -46,13 +47,13 @@ Can’t find the project you were looking for? While it’s possible to request 
 
 Let us know you’re here!
 
-From your chosen [team page](https://pontoon.mozilla.org/teams/), you have several options to get in touch: you can contact language managers directly through their profile in the contributors’ tab, send a message on our [localization Matrix channel](https://matrix.to/#/#l10n:mozilla.org), or email a Mozilla program manager directly (you can find their profile in the header of each project page). We’re always happy to answer your questions, so don’t hesitate to reach out. If one channel isn’t working, please try another from this list. We’re here to help.
+From your chosen team page, you have several options to get in touch: you can contact language managers directly through their profile in the contributors’ tab, send a message on our [localization Matrix channel](https://matrix.to/#/#l10n:mozilla.org), or email a Mozilla program manager directly (you can find their profile in the header of each project page). We’re always happy to answer your questions, so don’t hesitate to reach out. If one channel isn’t working, please try another from this list. We’re here to help.
 
 ### Starting your localization work
 
-In the meantime, you can start localizing! Note that when you are new, someone with “Manager” or “Translator” permissions on Pontoon will have to review and approve your work in order for it to be available in the final product.
+In the meantime, you can start localizing! Note that when you are new, someone with “Manager” or “Translator” [permissions on Pontoon](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/users.html#user-roles) will have to review and approve your work in order for it to be available in the final product.
 
-Stuck, or not getting any reviews of your work? If language managers are unresponsive, see the other options listed above — you’ll get a response.
+Stuck, or not getting any reviews of your work? If language managers are unresponsive, see the other options listed above to get in touch — you’ll get a response.
 
 ### Staying updated and personalizing your experience
 
@@ -60,7 +61,7 @@ Make sure you subscribe to Pontoon email communications in [your settings](https
 
 ### Enhancing your workflow with add-ons
 
-Consider downloading the Pontoon notification [add-on](https://chrome.google.com/webstore/detail/pontoon-notifications/milkpfjbhplgejjfhdeffjjcogdfbbgf) (Chrome add-on [here](https://chromewebstore.google.com/detail/pontoon-add-on/gnbfbnpjncpghhjmmhklfhcglbopagbb?hl=tr&utm_source=chrome-ntp-launcher&pli=1)), created by Mozilla localizer [Michal Stanke](https://pontoon.mozilla.org/contributors/mstanke/). This add-on brings notifications from Pontoon directly into your browser. It also provides features for proofreading, bug reporting and fixing — you will be shown an introduction tour right after installation.
+Consider downloading the Pontoon notification [add-on](https://addons.mozilla.org/firefox/addon/pontoon-tools/) (Chrome add-on [here](https://chromewebstore.google.com/detail/pontoon-add-on/gnbfbnpjncpghhjmmhklfhcglbopagbb?hl=tr&utm_source=chrome-ntp-launcher&pli=1)), created by Mozilla localizer [Michal Stanke](https://pontoon.mozilla.org/contributors/mstanke/). This add-on brings notifications from Pontoon directly into your browser. It also provides features for proofreading, bug reporting and fixing — you will be shown an introduction tour right after installation.
 
 ## Detailed overview: exploring Mozilla localization
 
