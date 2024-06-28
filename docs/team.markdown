@@ -23,4 +23,4 @@ Here you can learn more about the staff working in the Localization team at Mozi
 | Peiying Mo                 | Program manager: Web projects and translation vendor management             |           |
 
 ## Contact Us
-For more general inquiries, please contact us by using our [team email alias](mailto:l10n@mozilla.com).
+For more general inquiries, please contact us by using our [team email alias](mailto:team@pontoon.mozilla.com).
