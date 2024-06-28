@@ -98,4 +98,4 @@ Here are some reminders and other useful information:
 - Read our [blog](https://blog.mozilla.org/l10n/).
 - Follow us on [Discourse](https://discourse.mozilla.org/c/l10n/).
 - We’re also on [X](https://twitter.com/mozillal10n) and [Mastodon](https://mastodon.mozilla.org/@l10n).
-- Reach out directly to our team via [email](mailto:l10n@mozilla.com).
+- Reach out directly to our team via [email](mailto:pontoon-team@mozilla.com).
