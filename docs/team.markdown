@@ -7,4 +7,6 @@ title: The Team
 pagetitle: Localization Team
 ---
 
-Here you can learn more about the staff working in the Localization team at Mozilla.
+Here you will be able to learn more about the staff working in the Localization team at Mozilla.
+
+Content coming soon!
