@@ -11,7 +11,6 @@ Discover more about the Localization team at Mozilla.
 
 | Name | Role | More about us |
 |:-----|:-----|:--------------|
-| Ayanaa Rahman | Software Engineer Intern | I like using technology to solve problems! Pontoon engineer. Computer science student at the University of Toronto. I speak Bengali and English. |
 | [Bryan Olsson](https://pontoon.mozilla.org/contributors/CMLZ_n1lNNSfQScLGE2yBmlS55w/) | Project Manager: Firefox Desktop, Mozilla Accounts, Terminology | I’m passionate about localization and technology, and so excited to support our Mozilla community in making the internet accessible in as many languages as possible. Ask me anything about Firefox desktop or Mozilla localization technologies. |
 | [Delphine Lebédel](https://pontoon.mozilla.org/contributors/3LPn77ppB_IQ9F6ruL5lw2IVrvQ/) | Project Manager: mobile (Android and iOS). | I work closely with the volunteer community, and am eager to help it thrive and grow. I speak French, English and Spanish. Come talk to me about mobile and any community ideas and projects. |
 | Eemeli Aro | Staff Software Engineer | I maintain and develop all the parts of our localization systems that aren’t Pontoon (though I help out with that as well). I’m also rather involved in a bunch of localization standards work, including the MessageFormat 2 spec at Unicode. |
