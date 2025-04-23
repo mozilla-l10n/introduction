@@ -47,7 +47,7 @@ Can’t find the project you were looking for? While it’s possible to request 
 
 Let us know you’re here!
 
-From your chosen team page, you have several options to get in touch: you can contact language managers directly through their profile in the contributors’ tab, send a message on our [localization Matrix channel](https://matrix.to/#/#l10n:mozilla.org), or email a Mozilla program manager directly (you can find their profile in the header of each project page). We’re always happy to answer your questions, so don’t hesitate to reach out. If one channel isn’t working, please try another from this list. We’re here to help.
+From your chosen team page, you have several options to get in touch: you can contact language managers directly through their profile in the contributors’ tab, send a message on our [localization Matrix channel](https://chat.mozilla.org/#/room/#l10n-community:mozilla.org), or email a Mozilla program manager directly (you can find their profile in the header of each project page). We’re always happy to answer your questions, so don’t hesitate to reach out. If one channel isn’t working, please try another from this list. We’re here to help.
 
 ### Starting your localization work
 
@@ -94,7 +94,7 @@ Here are some reminders and other useful information:
 
 ### Stay connected with us
 
-- Chat with us, ask questions, or just come hang out on our [Matrix](https://matrix.to/#/#l10n:mozilla.org) channel.
+- Chat with us, ask questions, or just come hang out on our [Matrix](https://chat.mozilla.org/#/room/#l10n-community:mozilla.org) channel.
 - Read our [blog](https://blog.mozilla.org/l10n/).
 - Follow us on [Discourse](https://discourse.mozilla.org/c/l10n/).
 - We’re also on [X](https://twitter.com/mozillal10n) and [Mastodon](https://mozilla.social/@localization).
