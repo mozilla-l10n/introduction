@@ -97,5 +97,5 @@ Here are some reminders and other useful information:
 - Chat with us, ask questions, or just come hang out on our [Matrix](https://chat.mozilla.org/#/room/#l10n-community:mozilla.org) channel.
 - Read our [blog](https://blog.mozilla.org/l10n/).
 - Follow us on [Discourse](https://discourse.mozilla.org/c/l10n/).
-- We’re also on [X](https://twitter.com/mozillal10n) and [Mastodon](https://mozilla.social/@localization).
+- We’re also on [X](https://twitter.com/mozillal10n) and [Mastodon](https://fosstodon.org/@mozilla_l10n/).
 - Reach out directly to our team via [email](mailto:team@pontoon.mozilla.com).

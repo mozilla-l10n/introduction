@@ -21,6 +21,10 @@ h2 {
   margin-right: 20%;
 }
 
+.trigger .page-link {
+  padding: 0 0.25em;
+}
+
 @media screen and (min-width: 1000px) {
   .wrapper {
     max-width: calc(1000px - (30px * 2));
